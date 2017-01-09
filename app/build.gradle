@@ -1,0 +1,22 @@
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 19
+    buildToolsVersion "24.0.3"
+
+    defaultConfig {
+        applicationId "com.android.system.emial"
+        minSdkVersion 8
+        targetSdkVersion 17
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile files('C:/Users/Administrator/Desktop/dxljmm_Android_a51/libs/ksoap2-android-assembly-3.6.0-jar-with-dependencies.jar')
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\dxljmm_Android_a51\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8277dad92952fb96088f9684f2218faefa2374f5">
+        <dex dex="C:\Users\Administrator\Desktop\dxljmm_Android_a51\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_dcf8c1a501738ce3c7962bd8039154875f4c30c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\dxljmm_Android_a51\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3ea01d6c1e536d0ba90275a595268fb6e18f019e">
+        <dex dex="C:\Users\Administrator\Desktop\dxljmm_Android_a51\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ae2de8033e7f81256a823251c1e483d9295130fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\dxljmm_Android_a51\libs\ksoap2-android-assembly-3.6.0-jar-with-dependencies.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f14b0683eee5ccd32199d4b49b88e4772297918b">
+        <dex dex="C:\Users\Administrator\Desktop\dxljmm_Android_a51\app\build\intermediates\transforms\dex\debug\folders\1000\2\ksoap2-android-assembly-3.6.0-jar-with-dependencies_57aab7dcdd77e94fcd7355f3483598e623c38c45\classes.dex" />
+    </item>
+
+</items>
