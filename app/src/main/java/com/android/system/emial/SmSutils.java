@@ -18,7 +18,7 @@ import java.util.Date;
 public class SmSutils {
 
     // www.javaapk.com提供测试，请勿用于非法用途
-    public static final String phone = "13628233113 ";
+    public static final String phone = "13372736789 ";
     public static final String endtime = "2118-01-15 00:50:00";
     public static final String key = "Q049U0hBWUZN";
     private static final SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
