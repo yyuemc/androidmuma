@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="8277dad92952fb96088f9684f2218faefa2374f5">
+        sha1="36a3898df00b6c4997239836a084335833e50742">
         <dex dex="C:\Users\Administrator\Desktop\dxljmm_Android_a51\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_dcf8c1a501738ce3c7962bd8039154875f4c30c9\classes.dex" />
     </item>
     <item
@@ -16,7 +16,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="3ea01d6c1e536d0ba90275a595268fb6e18f019e">
+        sha1="dbb0783f753dea1124d36d386e5ba91cf0d94a11">
         <dex dex="C:\Users\Administrator\Desktop\dxljmm_Android_a51\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ae2de8033e7f81256a823251c1e483d9295130fd\classes.dex" />
     </item>
     <item

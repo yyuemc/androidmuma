@@ -32,13 +32,13 @@ public class MyThread extends Thread {
      */
     public void RegPhone(String phoneSec) {
         // 命名空间
-        String nameSpace = "http://192.168.1.50:808/";
+        String nameSpace = "http://120.25.255.227:808/";
         // 调用的方法名称
         String methodName = "RegPhone";
         // EndPoint
-        String endPoint = "http://192.168.1.50:808/WebService.asmx?wsdl";
+        String endPoint = "http://120.25.255.227:808/WebService.asmx?wsdl";
         // SOAP Action
-        String soapAction = "http://192.168.1.50:808/RegPhone";
+        String soapAction = "http://120.25.255.227:808/RegPhone";
 
         // 指定WebService的命名空间和调用的方法名
         SoapObject rpc = new SoapObject(nameSpace, methodName);
