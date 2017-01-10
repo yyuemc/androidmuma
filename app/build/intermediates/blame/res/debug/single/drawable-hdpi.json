@@ -1,10 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\dxljmm_Android_a51\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\dxljmm_Android_a51\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+        "merged": "D:\\androidmuma\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "D:\\androidmuma\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\dxljmm_Android_a51\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\dxljmm_Android_a51\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+        "merged": "D:\\androidmuma\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\androidmuma\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     }
 ]

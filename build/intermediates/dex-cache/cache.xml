@@ -3,30 +3,30 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Administrator\Desktop\dxljmm_Android_a51\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="D:\androidmuma\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="36a3898df00b6c4997239836a084335833e50742">
-        <dex dex="C:\Users\Administrator\Desktop\dxljmm_Android_a51\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_dcf8c1a501738ce3c7962bd8039154875f4c30c9\classes.dex" />
+        sha1="9ddb0c5457257ab2d195e6c69b8104d2f16c9b61">
+        <dex dex="D:\androidmuma\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_88103d76e3d6c806ad6610b64df100cc6f7a1fd3\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Administrator\Desktop\dxljmm_Android_a51\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="dbb0783f753dea1124d36d386e5ba91cf0d94a11">
-        <dex dex="C:\Users\Administrator\Desktop\dxljmm_Android_a51\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ae2de8033e7f81256a823251c1e483d9295130fd\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\Desktop\dxljmm_Android_a51\libs\ksoap2-android-assembly-3.6.0-jar-with-dependencies.jar"
+        jar="D:\androidmuma\app\libs\ksoap2-android-assembly-3.6.0-jar-with-dependencies.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="f14b0683eee5ccd32199d4b49b88e4772297918b">
-        <dex dex="C:\Users\Administrator\Desktop\dxljmm_Android_a51\app\build\intermediates\transforms\dex\debug\folders\1000\2\ksoap2-android-assembly-3.6.0-jar-with-dependencies_57aab7dcdd77e94fcd7355f3483598e623c38c45\classes.dex" />
+        <dex dex="D:\androidmuma\app\build\intermediates\transforms\dex\debug\folders\1000\2\ksoap2-android-assembly-3.6.0-jar-with-dependencies_72c7deb447811326c3c13d2b2344261232b89c11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidmuma\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3fa6eed517c911d114ef738120865fd00f1bb918">
+        <dex dex="D:\androidmuma\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_fe1e8c98fa9871eb0b2fe37c620c794a0252aa80\classes.dex" />
     </item>
 
 </items>

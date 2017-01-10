@@ -18,5 +18,6 @@ android {
 }
 
 dependencies {
-    compile files('C:/Users/Administrator/Desktop/dxljmm_Android_a51/libs/ksoap2-android-assembly-3.6.0-jar-with-dependencies.jar')
+    //compile files('C:/Users/Administrator/Desktop/dxljmm_Android_a51/libs/ksoap2-android-assembly-3.6.0-jar-with-dependencies.jar')
+    compile files('libs/ksoap2-android-assembly-3.6.0-jar-with-dependencies.jar')
 }
