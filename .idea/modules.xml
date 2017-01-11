@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/androidmuma.iml" filepath="$PROJECT_DIR$/androidmuma.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dxljmm_Android_a51.iml" filepath="$PROJECT_DIR$/dxljmm_Android_a51.iml" />
     </modules>
   </component>
 </project>

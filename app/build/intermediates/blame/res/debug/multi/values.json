@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\androidmuma\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "C:\\Users\\Administrator\\Desktop\\dxljmm_Android_a51\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 94
                 },
                 "from": {
-                    "file": "D:\\androidmuma\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\Administrator\\Desktop\\dxljmm_Android_a51\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 59,
+                        "startOffset": 58,
                         "endColumn": 43,
-                        "endOffset": 98
+                        "endOffset": 97
                     }
                 }
             }
